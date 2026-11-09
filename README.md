@@ -4,7 +4,7 @@
 <img src="assets/banner.svg" width="100%" alt="Le Bao Duy - AI and Platform Engineer" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Contributing+to+AI-DLC+%E2%80%94+AI-Driven+Development+Lifecycle;Agent+tooling%2C+FastAPI+platforms%2C+data+pipelines;Banking+engineering+%40+PVcomBank%2C+Hanoi" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Contributing+to+the+AI-Driven+Development+Lifecycle;Agent+tooling%2C+FastAPI+platforms%2C+data+pipelines;Banking+engineering+%40+PVcomBank%2C+Hanoi" alt="typing" />
 </a>
 
 <br/><br/>
