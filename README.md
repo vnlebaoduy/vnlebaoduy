@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:4c1d95&height=170&section=header&text=Le%20Bao%20Duy&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Platform%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+<!-- Self-hosted static SVG. capsule-render emits paths with an empty "d" that only exist inside SMIL, so the background vanished when animation did not run. -->
+<img src="assets/banner.svg" width="100%" alt="Le Bao Duy - AI and Platform Engineer" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+AI-driven+development+workflows;Agent+tooling%2C+FastAPI+platforms%2C+data+pipelines;Banking+engineering+%40+PVcomBank%2C+Hanoi" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Contributing+to+AI-DLC+%E2%80%94+AI-Driven+Development+Lifecycle;Agent+tooling%2C+FastAPI+platforms%2C+data+pipelines;Banking+engineering+%40+PVcomBank%2C+Hanoi" alt="typing" />
 </a>
 
 <br/><br/>
@@ -19,7 +20,7 @@
 
 ### About
 
-- I build **AI-driven development lifecycle (AI-DLC)** tooling — workflow steering rules, provider bridges and persistent agent workspaces.
+- I **contribute to AI-DLC** (AI-Driven Development Lifecycle) — adaptive workflow steering rules for AI coding agents, provider bridges and run dashboards.
 - Day job is **platform and backend engineering in banking**: FastAPI services, Keycloak auth, Airflow pipelines, Postgres and containerised deployments.
 - Earlier work was **computer vision** — Vietnamese OCR, ID-card recognition and real-time face recognition pipelines.
 - Based in **Hanoi, Vietnam** 🇻🇳 · 70+ public repositories.
@@ -60,6 +61,9 @@
 <!-- Generated in-repo daily by .github/workflows/profile-3d.yml - not dependent on any third-party uptime -->
 <img src="profile-3d-contrib/profile-night-view.svg" width="98%" alt="3D contribution calendar" />
 
+<!-- Also generated in-repo by .github/workflows/user-stats.yml -->
+<img src="assets/userstats.svg" width="60%" alt="User statistics" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnlebaoduy&theme=github_dark" width="98%" alt="profile summary" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnlebaoduy&theme=github_dark" width="49%" alt="repos per language" />
@@ -80,6 +84,6 @@
 
 <sub>Open to collaboration on agent tooling and AI-assisted engineering workflows — <a href="mailto:lebaoduy1993@gmail.com">say hello</a>.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
