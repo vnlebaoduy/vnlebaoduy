@@ -57,6 +57,9 @@
 
 <div align="center">
 
+<!-- Generated in-repo daily by .github/workflows/profile-3d.yml - not dependent on any third-party uptime -->
+<img src="profile-3d-contrib/profile-night-view.svg" width="98%" alt="3D contribution calendar" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnlebaoduy&theme=github_dark" width="98%" alt="profile summary" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnlebaoduy&theme=github_dark" width="49%" alt="repos per language" />
