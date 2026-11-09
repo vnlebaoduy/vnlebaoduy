@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0b1120" alt="CKA" />
 <br/>
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0b1120" alt="AWS SAA" />
-<img src="https://img.shields.io/badge/ITIL-Foundation%20v5-E4002B?style=flat-square&labelColor=0b1120" alt="ITIL Foundation" />
+<img src="https://img.shields.io/badge/ITIL-Foundation%20v5-6A2C91?style=flat-square&labelColor=0b1120" alt="ITIL Foundation" />
 
 </div>
 
